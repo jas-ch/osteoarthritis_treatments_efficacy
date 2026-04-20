@@ -15,6 +15,5 @@ In this UCSD bioengineering research, we investigated the mechanisms of OA pain 
 ## Key References
 - Grässel S, Muschter D. Recent advances in the treatment of osteoarthritis. *F1000Research*. 2020;9:325.  
 - Conaghan PG, Guermazi A, Katz N, et al. A randomised controlled Phase II trial of LEVI‑04 in knee osteoarthritis. *Rheumatology*. 2025;64(Suppl 3):keaf142.004.  
-- Aso K, Shahtaheri SM, Hill R, et al. Contribution of nerves within osteochondral channels to osteoarthritis knee pain. *Osteoarthritis Cartilage*. 2020;28:1245‑1254.  
-- Pecchi E, Priam S, Gosset M, et al. Induction of NGF expression by mechanical and inflammatory stimuli in chondrocytes. *Arthritis Res Ther*. 2014;16:R16.
-
+- Aso K, Shahtaheri SM, Hill R, et al. Contribution of nerves within osteochondral channels to osteoarthritis knee pain. *Osteoarthritis Cartilage*. 2020;28:1245‑1254.
+- Jaffal S, Khalil R. Targeting nerve growth factor for pain relief: pros and cons. _Korean J Pain_ 37:288-298, 2024, https://doi.org/10.3344/kjp.24235
