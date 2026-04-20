@@ -10,7 +10,7 @@ In this UCSD bioengineering research, we investigated the mechanisms of OA pain 
 - LEVI‑04 provided pain relief comparable to tanezumab but **without deleterious effects on joint structure**, making it a safer candidate for OA pain management.
 
 ## Also in this repository
-- **Jas Chan & Charlene Xu** – Study on 3D‑printed models for triplane proximal femoral osteotomy (SCFE) which showed reduced surgery and fluoroscopy time with 3D planning.
+- **Jas Chan & Charlene Xu** – Study on 3D-printed models for triplane proximal femoral osteotomy (SCFE) which showed reduced surgery and fluoroscopy time with 3D planning.
 
 ## Key References
 - Grässel S, Muschter D. Recent advances in the treatment of osteoarthritis. *F1000Research*. 2020;9:325.  
